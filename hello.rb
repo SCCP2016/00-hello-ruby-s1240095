@@ -1,1 +1,1 @@
-puts "HelloWorld"
+puts "This is a test."
